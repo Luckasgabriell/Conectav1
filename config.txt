@@ -1,0 +1,46 @@
+{
+  "Version": "0.0.2",
+  "ReleaseNotes": "Nova Atualização Disponível",
+  "UrlUpdate": "https://raw.githubusercontent.com/Luckasgabriell/Conectav1/main/config.txt",
+  "Sms": "https://paste.anasor.com/paste.php?raw&id=8656",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7900"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "AQUI É O SERVER",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "lcnetssh.ml",
+      "CheckUser": "http://20.226.6.183:8080/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    
+    
+ ],
+ "Networks": [
+ {
+      "Name": "AQUI É OPERADORA",
+      "FLAG": "tim",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d31qqipplft12s.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "contratecontrole.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy" 
+      
+        }
+ ]
+}
