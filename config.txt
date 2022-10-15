@@ -1,10 +1,10 @@
 {
   "Version": "0.0.2",
-  "ReleaseNotes": "Nova Atualização Disponível",
+  "ReleaseNotes": "Nova Atualização",
   "UrlUpdate": "https://raw.githubusercontent.com/Luckasgabriell/Conectav1/main/config.txt",
   "Sms": "https://paste.anasor.com/paste.php?raw&id=8656",
   "EmailFeedback": "",
-  "UrlContato": "",
+  "UrlContato": "https://wa.me/message/5ITINAGQQFPHO1",
   "UrlTermos": "",
   "CheckUser": "true",
   "Udp": [
